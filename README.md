@@ -30,4 +30,4 @@ Find me on GitHub: [krather7](https://github.com/krather7)<br />
 <br />
 Email: krather7@gmail.com<br /><br />
 
-![README Demo](READMEDemo.gif)
+![Project Demo](https://github.com/krather7/Team-Profile-Generator/blob/main/dist/ProfileMovie.gif)
