@@ -13,7 +13,7 @@
 - Use a command-line application that accepts user's input to generate an HTML page with team members
 - Start the application to enter a team member's name, position, employee ID, email address, and other information
 - The information is then presented in an HTML page
-- -View video got detailed instruction on how to use this application
+- View video for detailed instruction on how to use this application
 ## Installation
 npm install inquirer required
 ## License
