@@ -15,8 +15,8 @@
 - The information is then presented in an HTML page
 - View video for detailed instruction on how to use this application
 ## Installation
-npm install inquirer required
-Jest package is required
+- npm install inquirer required
+- Jest package is required
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
