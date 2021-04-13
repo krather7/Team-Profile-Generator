@@ -67,7 +67,7 @@ function renderMain() {
     let mainTemplate = fs.readFileSync(path.resolve(templateDir, "main.html"), "utf8")
     var mainHtml = ""
     mainHtml = mainHtml + mainTemplate.replace(/{{ team }}/g, teamMembers)
-    let file = path.join(__dirname, 'output', "/index.html");
+    let file = path.join(__dirname, 'dist', "/index.html");
     console.log(file);
     fs.writeFile(file, mainHtml, function (err) {
         if (err) {
